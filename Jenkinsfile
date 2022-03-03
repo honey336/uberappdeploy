@@ -1,2 +1,2 @@
 @Library('honeyshared-library') _
-uberapp, 'https://github.com/honey336/uberappdeploy'
+uberApp, 'https://github.com/honey336/uberappdeploy'
